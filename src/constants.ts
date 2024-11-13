@@ -24,10 +24,10 @@ export const DEFAULT_INPUTS = {
 };
 
 export const OPENAI_MODELS = [
-  // {
-  //   name: "gpt-4o-mini",
-  //   label: "GPT-4o mini",
-  // },
+  {
+    name: "gpt-4o-mini",
+    label: "GPT-4o mini",
+  },
   {
     name: "gpt-4o",
     label: "GPT-4o",
